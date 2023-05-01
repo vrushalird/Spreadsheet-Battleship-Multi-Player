@@ -5,6 +5,7 @@
 * Consists of a 10x10 grid where Players can place their 5 ships each of different size.
 * Suitable for online team bonding activities.
 * Was originally made for Team Wrapping activities conducted on every Friday in my office.
+* Have fun!!
 
 ## How to Play 
 1. Download the files from [Host Template](Host%20Template%20File) and [Players Template](Players%20Template%20File).
