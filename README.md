@@ -7,7 +7,7 @@
 * Was originally made for Team Wrapping activities conducted on every Friday in my office.
 
 ## How to Play 
-1. Download the files from Host Template and Players Template.
+1. Download the files from [Host Template](Host%20Template) and [Players Template](Players%20Template).
 2. Host will distribute Players Template file with the team by updating "Your Ship" tab with individual Players' name. This is just to track each player's sheet.
 3. Players will take 10 minutes to place their ships on Battleship board. Please refer Players template file for more instructions.
 3. Host will consolidate all Players sheets into Host file.
