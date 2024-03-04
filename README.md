@@ -1,11 +1,22 @@
 # Spreadsheet Battleship (Multi-Player Version)
 
-## About
-* A multi-player version of classic Battleship game which can be played in Microsoft Excel.
-* Consists of a 10x10 grid where Players can place their 5 ships each of different size.
-* Suitable for online team bonding activities.
-* Was originally made for Team Wrapping activities conducted on every Friday in my office.
-* Have fun!!
+## Project Description:
+
+The Spreadsheet Battleship game developed in Excel using VBA programming offers an engaging multiplayer experience for more than two players. Inspired by the classic board game, this digital rendition allows players to strategically position their fleet of ships on a grid within the Excel spreadsheet. Through VBA automation, players take turns guessing the coordinates of their opponents' ships, aiming to sink them before their own fleet suffers the same fate.
+
+## Key Features:
+
+* <b>Multiplayer Gameplay</b>: Unlike traditional Battleship games limited to two players, this Excel version supports multiple players, enhancing the competitive dynamics and fostering collaboration and interaction among participants.
+
+* <b>Dynamic Grid Interface</b>: The Excel spreadsheet serves as the battleground, with each cell representing a coordinate on the grid. Players input their guesses and track hits, misses, and sunk ships in real-time, creating an intuitive and visually appealing interface.
+
+* <b>Customizable Fleet</b>: Players can customize their fleet of ships, choosing from various sizes and shapes to deploy strategically on the grid. This adds an element of planning and tactical decision-making to the gameplay.
+
+* <b>VBA Automation</b>: The game leverages VBA programming to automate various game mechanics, including ship placement, turn management, and result calculations. This streamlines gameplay and ensures a smooth and seamless experience for all participants.
+
+* <b>Scalability</b>: With support for multiple players, the game is scalable and adaptable to different group sizes, making it suitable for casual gaming sessions, team-building activities, or educational purposes.
+
+Overall, the Spreadsheet Battleship game in Excel offers a modern twist on a timeless classic, combining the familiarity of the traditional board game with the versatility of digital technology. Whether played for leisure or as a collaborative challenge, it provides an entertaining and interactive experience for players of all ages.
 
 ## How to Play 
 1. Download the files from [Host Template](Host%20Template%20File) and [Players Template](Players%20Template%20File).
